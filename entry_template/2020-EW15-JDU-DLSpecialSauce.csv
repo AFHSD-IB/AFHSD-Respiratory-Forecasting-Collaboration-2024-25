@@ -1,0 +1,193 @@
+location,target,unit,value,stdev,llim,ulim
+28th MED GRP-ELLSWORTH AFB,1 wk ahead,encounters,234,15.4,175,388
+28th MED GRP-ELLSWORTH AFB,2 wk ahead,encounters,234,15.4,175,388
+28th MED GRP-ELLSWORTH AFB,3 wk ahead,encounters,234,15.4,175,388
+28th MED GRP-ELLSWORTH AFB,4 wk ahead,encounters,234,15.4,175,388
+28th MED GRP-ELLSWORTH AFB,5 wk ahead,encounters,234,15.4,175,388
+28th MED GRP-ELLSWORTH AFB,6 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,1 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,2 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,3 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,4 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,5 wk ahead,encounters,234,15.4,175,388
+341st MED GRP-MALMSTROM,6 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,1 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,2 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,3 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,4 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,5 wk ahead,encounters,234,15.4,175,388
+55th MED GRP-OFFUTT,6 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,1 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,2 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,3 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,4 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,5 wk ahead,encounters,234,15.4,175,388
+56TH MED GRP-LUKE AFB,6 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,1 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,2 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,3 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,4 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,5 wk ahead,encounters,234,15.4,175,388
+75th MED GRP-HILL AFB,6 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,1 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,2 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,3 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,4 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,5 wk ahead,encounters,234,15.4,175,388
+88th MED GRP-WRIGHT-PATTERSON AFB,6 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,1 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,2 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,3 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,4 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,5 wk ahead,encounters,234,15.4,175,388
+96TH MED GRP-EGLIN AFB,6 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,1 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,2 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,3 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,4 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,5 wk ahead,encounters,234,15.4,175,388
+99TH MED GRP-NELLIS AFB,6 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,1 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,2 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,3 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,4 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,5 wk ahead,encounters,234,15.4,175,388
+BLANCHFIELD ACH- FT CAMPBELL,6 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,1 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,2 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,3 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,4 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,5 wk ahead,encounters,234,15.4,175,388
+BLISS AHC-FT HUACHUCA,6 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,1 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,2 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,3 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,4 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,5 wk ahead,encounters,234,15.4,175,388
+BROOKE AMC-FT SAM HOUSTON,6 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,1 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,2 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,3 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,4 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,5 wk ahead,encounters,234,15.4,175,388
+DARNALL AMC-FT HOOD,6 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,1 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,2 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,3 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,4 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,5 wk ahead,encounters,234,15.4,175,388
+EVANS ACH-FT CARSON,6 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,1 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,2 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,3 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,4 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,5 wk ahead,encounters,234,15.4,175,388
+FT BELVOIR-NCR,6 wk ahead,encounters,234,15.4,175,388
+GERMANY,1 wk ahead,encounters,234,15.4,175,388
+GERMANY,2 wk ahead,encounters,234,15.4,175,388
+GERMANY,3 wk ahead,encounters,234,15.4,175,388
+GERMANY,4 wk ahead,encounters,234,15.4,175,388
+GERMANY,5 wk ahead,encounters,234,15.4,175,388
+GERMANY,6 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,1 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,2 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,3 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,4 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,5 wk ahead,encounters,234,15.4,175,388
+GUTHRIE AHC-FT DRUM,6 wk ahead,encounters,234,15.4,175,388
+ITALY,1 wk ahead,encounters,234,15.4,175,388
+ITALY,2 wk ahead,encounters,234,15.4,175,388
+ITALY,3 wk ahead,encounters,234,15.4,175,388
+ITALY,4 wk ahead,encounters,234,15.4,175,388
+ITALY,5 wk ahead,encounters,234,15.4,175,388
+ITALY,6 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,1 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,2 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,3 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,4 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,5 wk ahead,encounters,234,15.4,175,388
+JAMES A LOVELL FHCC,6 wk ahead,encounters,234,15.4,175,388
+JAPAN,1 wk ahead,encounters,234,15.4,175,388
+JAPAN,2 wk ahead,encounters,234,15.4,175,388
+JAPAN,3 wk ahead,encounters,234,15.4,175,388
+JAPAN,4 wk ahead,encounters,234,15.4,175,388
+JAPAN,5 wk ahead,encounters,234,15.4,175,388
+JAPAN,6 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,1 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,2 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,3 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,4 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,5 wk ahead,encounters,234,15.4,175,388
+KELLER ACH-WEST POINT,6 wk ahead,encounters,234,15.4,175,388
+KOREA,1 wk ahead,encounters,234,15.4,175,388
+KOREA,2 wk ahead,encounters,234,15.4,175,388
+KOREA,3 wk ahead,encounters,234,15.4,175,388
+KOREA,4 wk ahead,encounters,234,15.4,175,388
+KOREA,5 wk ahead,encounters,234,15.4,175,388
+KOREA,6 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,1 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,2 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,3 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,4 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,5 wk ahead,encounters,234,15.4,175,388
+LEONARD WOOD ACH-FT LEONARD WOOD,6 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,1 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,2 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,3 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,4 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,5 wk ahead,encounters,234,15.4,175,388
+MARTIN ACH-FT BENNING,6 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,1 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,2 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,3 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,4 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,5 wk ahead,encounters,234,15.4,175,388
+MUNSON AHC-FT LEAVENWORTH,6 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,1 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,2 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,3 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,4 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,5 wk ahead,encounters,234,15.4,175,388
+NH BEAUFORT,6 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,1 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,2 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,3 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,4 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,5 wk ahead,encounters,234,15.4,175,388
+NH JACKSONVILLE,6 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,1 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,2 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,3 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,4 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,5 wk ahead,encounters,234,15.4,175,388
+NMC PORTSMOUTH,6 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,1 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,2 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,3 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,4 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,5 wk ahead,encounters,234,15.4,175,388
+NMC SAN DIEGO -NAV HOSP PENDLETON,6 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,1 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,2 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,3 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,4 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,5 wk ahead,encounters,234,15.4,175,388
+REYNOLDS AHC-FT SILL,6 wk ahead,encounters,234,15.4,175,388
+SPAIN,1 wk ahead,encounters,234,15.4,175,388
+SPAIN,2 wk ahead,encounters,234,15.4,175,388
+SPAIN,3 wk ahead,encounters,234,15.4,175,388
+SPAIN,4 wk ahead,encounters,234,15.4,175,388
+SPAIN,5 wk ahead,encounters,234,15.4,175,388
+SPAIN,6 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,1 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,2 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,3 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,4 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,5 wk ahead,encounters,234,15.4,175,388
+UNITED KINGDOM,6 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,1 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,2 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,3 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,4 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,5 wk ahead,encounters,234,15.4,175,388
+WOMACK AMC-FT BRAGG,6 wk ahead,encounters,234,15.4,175,388
