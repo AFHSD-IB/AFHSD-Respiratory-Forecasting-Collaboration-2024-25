@@ -1,2 +1,2 @@
-# DoD-COVID-19-and-ILI-Forecasting-Collaboration
-Repository for entries, data, and guidelines for the DoD COVID-19 and ILI Forecasting Collaboration
+# AFHSD-IB Respiratory Forecasting Collaboration
+Repository guidelines for the AFHSD-IB Respiratory Forecasting Collaboration
